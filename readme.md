@@ -1,6 +1,6 @@
-# TypeScript Boilerplate with Vitest Setup ⚡
+# TypeScript Bun Starter
 
-[![Test](https://github.com/meratusdev/typescript-node-starter/actions/workflows/test.yml/badge.svg)](https://github.com/meratusdev/typescript-node-starter/actions/workflows/test.yml)
+[![Test](https://github.com/meratusdev/typescript-bun-starter/actions/workflows/test.yml/badge.svg)](https://github.com/meratusdev/typescript-node-starter/actions/workflows/test.yml)
 
 Quickly start building your TypeScript-based application with this preconfigured starter project that includes test setup.
 
@@ -9,25 +9,25 @@ Quickly start building your TypeScript-based application with this preconfigured
 1. Clone the repository
 
    ```bash
-   git clone https://github.com/meratusdev/typescript-node-starter.git
+   git clone https://github.com/meratusdev/typescript-bun-starter.git
    ```
 
 2. Install dependencies
 
    ```bash
-   yarn install
+   bun install
    ```
 
 3. Run the project
 
    ```bash
-   yarn start
+   bun start
    ```
 
 4. Run tests
 
    ```bash
-   yarn test
+   bun test
    ```
 
 ## Folder Structure
