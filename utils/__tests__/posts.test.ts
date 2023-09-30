@@ -1,4 +1,5 @@
 import { getPosts } from "~/utils/posts";
+import { it, expect, describe } from "bun:test";
 
 describe("getPosts", () => {
   it("should return an array", async () => {
